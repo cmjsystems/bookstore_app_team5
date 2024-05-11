@@ -14,12 +14,12 @@
   * git commit -m "First Commit."
   * git status
   - Copy the commands from the GitHub website project
-    * git remote add origin https://github.com/cmjsystems/bookstore_app.git
+    * git remote add origin https://github.com/cmjsystems/bookstore_app_team5.git
     * git branch -M main
     * git push -u origin main
 
 - Clone from GitHub to local machine:
-  * git clone https://github.com/cmjsystems/bookstore_app.git
+  * git clone https://github.com/cmjsystems/bookstore_app_team5.git
 
 # Bookstore App
 Building a complete Bookstore App involves more detailed implementations, and we'll provide a basic setup in React application with authentication, inventory, and order pages. The structure for both the frontend (React and Node.js) and backend (Express with SQLite3).
