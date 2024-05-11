@@ -122,7 +122,7 @@ router.post('/order', (req, res) => {
   });
 });
 
-// Update a Order by ID
+// Update a Order by IDs
 router.put('/order/:id', (req, res) => {
   const { id } = req.params;
   const {
